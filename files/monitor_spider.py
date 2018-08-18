@@ -16,3 +16,4 @@ while True:
     time.sleep(5)
 
     '''After Main Procedure starts, then start it, for waiting reading the MongoDB'''
+
